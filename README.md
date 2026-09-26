@@ -47,8 +47,8 @@ A curated list of the best Claude skills (SKILL.md) for Claude Code and Claude.a
 - [Scrapling-Skill](https://github.com/d4vinci/scrapling) — Scrape web pages using Scrapling with anti-bot bypass (like Cloudflare Turnstile),… ⭐71,547
 - [changelog-generator](https://github.com/composiohq/awesome-claude-skills) — Automatically creates user-facing changelogs from git commits by analyzing commit… ⭐71,128
 - [azure-openai-to-responses](https://github.com/microsoft/ai-agents-for-beginners) — Migrate Python apps from Azure OpenAI Chat Completions to the Responses API ⭐70,536
+- [comment-distillery](https://github.com/TrueFurina/comment-distillery) — Distill crowd text (comments, surveys, interviews, feedback) into an evidence-cited guide with machine-verified citation provenance ⭐1
 
 ---
-- [comment-distillery](https://github.com/TrueFurina/comment-distillery) — Distill crowd text (comments, surveys, interviews, feedback) into an evidence-cited guide with machine-verified citation provenance ⭐1
 
 _Curated from [aaaa.fyi](https://aaaa.fyi) — the directory for Claude skills, MCP servers, plugins and subagents. Contributions welcome via PR._
